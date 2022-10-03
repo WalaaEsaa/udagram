@@ -25,3 +25,5 @@ jobs:
           name: Back-End Build
           command: |
             npm run backend:build
+    deploy:
+       - artifact: www/Archive.zip         
