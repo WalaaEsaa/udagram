@@ -4,7 +4,7 @@
 
 2.Database send data to backend , send data to front end that user show it.
 
-![This is ER image](https://github.com/WalaaEsaa/udagram/blob/main/screen_shot/aws.JPG)
+![This is ER image](https://github.com/WalaaEsaa/udagram/blob/main/screen_shot/asw.JPG)
 
 
 
