@@ -166,6 +166,10 @@ create envirnoment to backend app
 
 ![This is ER image](https://github.com/WalaaEsaa/udagram/blob/main/screen_shot/eb1.JPG)
 
+create envirnoment variable
+
+![This is ER image](https://github.com/WalaaEsaa/udagram/blob/main/screen_shot/ebenv0.JPG)
+
 deploy archive.zip
 
 ![This is ER image](https://github.com/WalaaEsaa/udagram/blob/main/screen_shot/eb3.JPG)
