@@ -32,3 +32,7 @@ add .cicleci folder and add config.yml which show workflow of app
 # envirnoment CricleCi 
 
 ![This is ER image](https://github.com/WalaaEsaa/udagram/blob/main/screen_shot/secret.JPG)
+
+#  CricleCi 
+
+![This is ER image](https://github.com/WalaaEsaa/udagram/blob/main/screen_shot/cerclci.JPG)
