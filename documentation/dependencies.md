@@ -11,7 +11,7 @@ creat RDS
 
 create envirnoment to backend app
 
-![This is ER image](https://github.com/WalaaEsaa/udagram/blob/main/screen_shot/eb2.JPG)
+![This is ER image](https://github.com/WalaaEsaa/udagram/blob/main/screen_shot/eb1.JPG)
 
 deploy archive.zip
 
