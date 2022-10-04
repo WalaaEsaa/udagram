@@ -9,7 +9,7 @@ jobs:
     steps:
       - node/install
       - checkout
-      -aws-cli/install
+      - aws-cli/install
       - run:
           name: Front-End Install
           command: |
