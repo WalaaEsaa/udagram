@@ -25,3 +25,10 @@ add .cicleci folder and add config.yml which show workflow of app
 1-sign up on cercleci with github
 2-select udagram repo 
 3-set up project
+
+# Pipeline diagram
+![This is ER image](https://github.com/WalaaEsaa/udagram/blob/main/screen_shot/pipline.JPG)
+
+# envirnoment CricleCi 
+
+![This is ER image](https://github.com/WalaaEsaa/udagram/blob/main/screen_shot/secret.JPG)
