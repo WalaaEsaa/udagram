@@ -37,10 +37,9 @@ jobs:
           command: |
             npm run backend:deploy
 workflows:
-  build:
-    jobs:
-      - test:
-         filters:
-           branches:
-             only:
-               - main
+  jobs:
+    builds:
+      filters:
+        branches:
+          only:
+            - main
