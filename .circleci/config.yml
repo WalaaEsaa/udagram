@@ -5,8 +5,8 @@ orbs:
   eb: circleci/aws-elastic-beanstalk@1.0.0
 jobs:
   build:
-   branches:
-      only:
+     branches:
+       only:
         - develop
     docker:
       - image: "cimg/base:stable"
