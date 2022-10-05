@@ -7,7 +7,7 @@ jobs:
   build:
     docker:
       - image: "cimg/base:stable"
-      steps:
+    steps:
       - node/install
       - checkout
       - aws-cli/install
