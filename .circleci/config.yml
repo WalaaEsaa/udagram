@@ -9,7 +9,7 @@ jobs:
       - image: "cimg/base:stable"
     branches:
       only:
-        - develop
+        - main
     steps:
       - node/install
       - checkout
