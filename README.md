@@ -8,4 +8,4 @@ http://my-udagram-frontend.s3-website-us-east-1.amazonaws.com
 
 # cercleci
 
-https://app.circleci.com/pipelines/github/WalaaEsaa/udagram/94/workflows/9b4e657d-735f-4b75-9449-dd5411cfa665/jobs/72
+https://app.circleci.com/pipelines/github/WalaaEsaa/udagram/101/workflows/37f713d0-d541-4e88-b0a4-3e28116b9acc/jobs/79
